@@ -1,4 +1,4 @@
-Experienced Software Test Automation Engineer with a demonstrated history of working in IT industry
+Software Test Automation Engineer with a demonstrated history of working in IT industry
 
 ### Technical Skills: ###
 1. Experience in designing & implementing Test Automation Framework using Java & Python, Selenium/ Webdriver, Maven, TestNG.
